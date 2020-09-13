@@ -14,7 +14,7 @@
 
 And therefore Diamonds are considered to be Very Costly.
 
-This classic dataset contains the prices and other attributes of almost 54,000 diamonds.
+This classic dataset contains the prices and other attributes of almost ~ 54,000 diamonds.
 
 Let's do some EDA (Exploratory Data Analysis) on these Diamond Dataset in R Language.
 
